@@ -1,2 +1,2 @@
 # ionic-app
-my first project for github
+Coding of udemy course till section 6
